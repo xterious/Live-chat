@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Live-chat/static/css/main.f855e6bc.css",
+    "main.js": "/Live-chat/static/js/main.5cb681d6.js",
+    "index.html": "/Live-chat/index.html",
+    "main.f855e6bc.css.map": "/Live-chat/static/css/main.f855e6bc.css.map",
+    "main.5cb681d6.js.map": "/Live-chat/static/js/main.5cb681d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5cb681d6.js"
+  ]
+}
